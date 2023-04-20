@@ -1,6 +1,6 @@
 # HIAE-MDA.MinhaConta.Module-Repositories
 Testing
-```bash
+```ts
 // project source path
 $ cd src/
 // add submodule
