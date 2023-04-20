@@ -1,5 +1,8 @@
 # HIAE-MDA.MinhaConta.Module-Repositories
 Testing
 ```bash
-git submodule add https://github.com/natancabral/HIAE-MDA.MinhaConta.Module-Repositories.git repositories 
+// project source path
+$ cd src/
+// add submodule
+$ git submodule add https://github.com/natancabral/HIAE-MDA.MinhaConta.Module-Repositories.git repositories 
 ```
